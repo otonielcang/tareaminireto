@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		29A7B0181C6291F900E6293A /* tarea */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = tarea; sourceTree = BUILT_PRODUCTS_DIR; };
 		29A7B01B1C6291F900E6293A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		29A7B0221C6292B700E6293A /* Juego de mamoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de mamoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		29A7B01A1C6291F900E6293A /* tarea */ = {
 			isa = PBXGroup;
 			children = (
+				29A7B0221C6292B700E6293A /* Juego de mamoria.playground */,
 				29A7B01B1C6291F900E6293A /* main.swift */,
 			);
 			path = tarea;
